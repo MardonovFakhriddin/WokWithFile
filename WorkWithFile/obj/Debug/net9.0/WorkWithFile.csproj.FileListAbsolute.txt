@@ -1,0 +1,14 @@
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\bin\Debug\net9.0\WorkWithFile.exe
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\bin\Debug\net9.0\WorkWithFile.deps.json
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\bin\Debug\net9.0\WorkWithFile.runtimeconfig.json
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\bin\Debug\net9.0\WorkWithFile.dll
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\bin\Debug\net9.0\WorkWithFile.pdb
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.AssemblyInfoInputs.cache
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.AssemblyInfo.cs
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.csproj.CoreCompileInputs.cache
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.dll
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\refint\WorkWithFile.dll
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.pdb
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\WorkWithFile.genruntimeconfig.cache
+C:\Users\Fahriddin\Desktop\WorkWithFile\WorkWithFile\obj\Debug\net9.0\ref\WorkWithFile.dll
